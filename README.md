@@ -1,5 +1,8 @@
 # Git Cheat Sheet and Branching Practice
 
+STUFF ADDED ON newBranch BY Reid2
+More Reid2 stuff
+
 ## Basic Commands
 * `git init` - initialize local Git repo
 * `git add fileName` - stage changed file `fileName`
