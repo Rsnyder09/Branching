@@ -16,3 +16,7 @@ for commit
 * ` git branch -m newName` - rename current branch to `newName`
 * `git branch branchName` - create local branch `branchName`
 * `git checkout branchName` - switch to local branch `branchName`
+
+## Remote
+* `git remote add origin url` - configure `url` as a remote repo, with alias `origin`
+* `git push origin branchName` - push local commits to remote repo `origin` on branch `branchName`
